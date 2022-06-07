@@ -1,0 +1,107 @@
+# English translations for task_i package.
+# Copyright (C) 2020 THE task_i'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the task_i package.
+# kali <daniel.osama.gonzalez@udc.es>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: task_i 18n\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-27 20:47+0100\n"
+"PO-Revision-Date: 2020-10-27 20:47+0100\n"
+"Last-Translator: kali <daniel.osama.gonzalez@udc.es>\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ipm-p1-mvc.py:27
+msgid "CheckTheTone - Practica P1 IPM"
+msgstr "CheckTheTone - Assigment P1 IPM"
+
+#: ipm-p1-mvc.py:60
+msgid "Canciones"
+msgstr "Songs"
+
+#: ipm-p1-mvc.py:61
+msgid "Favoritos"
+msgstr "Favorite"
+
+#: ipm-p1-mvc.py:62
+msgid "Reproducir"
+msgstr "Play"
+
+#: ipm-p1-mvc.py:86
+msgid "INTERVALO:"
+msgstr "INTERVAL:"
+
+#: ipm-p1-mvc.py:87 ipm-p1-mvc.py:118
+msgid "NOTAS:"
+msgstr "NOTES:"
+
+#: ipm-p1-mvc.py:88 ipm-p1-mvc.py:116
+msgid "DISTANCIA:"
+msgstr "DISTANCE:"
+
+#: ipm-p1-mvc.py:114
+msgid "INTERVAL:"
+msgstr "INTERVAL:"
+
+#: ipm-p1-mvc.py:153
+#, python-brace-format
+msgid "update_view() got an unexpected keyboard argument '{name}'"
+msgstr "update_view() got an unexpected keyboard argument '{name}'"
+
+#: ipm-p1-mvc.py:213
+msgid "No hay conexion"
+msgstr "No connection with the server"
+
+#: ipm-p1-mvc.py:273
+msgid "DO"
+msgstr "C"
+
+#: ipm-p1-mvc.py:273
+msgid "DO\\u266f/RE\\u266D"
+msgstr "C\\u266f/D\\u266D"
+
+#: ipm-p1-mvc.py:273
+msgid "D"
+msgstr "D"
+
+#: ipm-p1-mvc.py:273
+msgid "RE\\u266f/MI\\u266D"
+msgstr "D\\u266f/E\\u266D"
+
+#: ipm-p1-mvc.py:273
+msgid "E"
+msgstr "E"
+
+#: ipm-p1-mvc.py:273
+msgid "FA"
+msgstr "F"
+
+#: ipm-p1-mvc.py:274
+msgid "SOL"
+msgstr "G"
+
+#: ipm-p1-mvc.py:274
+msgid "SOL\\u266f/LA\\u266D"
+msgstr "G\\u266f/A\\u266D"
+
+#: ipm-p1-mvc.py:274
+msgid "LA"
+msgstr "A"
+
+#: ipm-p1-mvc.py:274
+msgid "LA\\u266f/SI\\u266D"
+msgstr "A\\u266f/B\\u266D"
+
+#: ipm-p1-mvc.py:274
+msgid "SI"
+msgstr "B"
+
+#: ipm-p1-mvc.py:273
+msgid "FA\\u266f/SOL\\u266D)"
+msgstr "F\\u266f/G\\u266D)"
